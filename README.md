@@ -55,7 +55,7 @@ use Rarity Number accordingly rarity Map
 ## SUDO USER COMMANDS..
 - `/upload` - Add a new character to the database 
 - `/delete` - Delete a character from the database 
-- `/update` - Update stats of a character in the database 
+- `/update` - Update stats of a character in the database
 
 ## OWNER COMMANDS
 - `/ping` - Pings the bot and sends a response
